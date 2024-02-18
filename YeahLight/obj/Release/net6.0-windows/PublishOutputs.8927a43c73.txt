@@ -1,0 +1,8 @@
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.exe
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.dll
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.deps.json
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.runtimeconfig.json
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.dll.config
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeahLight.pdb
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\Newtonsoft.Json.dll
+C:\Users\table\Desktop\YeahLight\YeahLight\bin\publish\YeelightAPI.dll
